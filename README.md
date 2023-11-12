@@ -12,7 +12,7 @@ I like bikes, and I like Python.
 # Install
 _I wrote it for Python 3.5, but it may work in Python 2.7 YMMV_
 
-- `git clone https://gitlab.com/deafmice/bikesaledemo.git`
+- `git clone https://github.com/ephergent/bikesaledemo.git`
 - `cd bikesaledemo`
 - `pip install requirements.txt`
 - `python app.py`
